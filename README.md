@@ -44,3 +44,43 @@
 
 ## 🎯 How It Works
 
+---
+
+## 💡 Sample Prompts
+
+- "Create a mobile login screen with email and password fields and a login button."
+- "Design a hero section with a heading, subtext, and two CTA buttons."
+- "Make a pricing card with three tiers: Free, Pro, and Enterprise."
+
+---
+
+## 📦 Tech Stack
+
+| Layer           | Technology            |
+|----------------|------------------------|
+| 🧠 AI Engine    | OpenAI GPT-4 / Gemini  |
+| 🎛️ Plugin Dev   | Figma Plugin API (TypeScript) |
+| 🌐 Backend       | Firebase Cloud Functions |
+| 🔐 Auth & Logs   | Firestore & HTTPS APIs |
+
+---
+
+## 📊 Pitch Deck (Mini Version)
+
+### 🖌️ Problem
+Designers and developers waste time manually building common UI structures that could be generated from simple ideas.
+
+### 🌈 Solution
+**UIVana** eliminates friction. Just describe what you want. UIVana translates your intent into functional Figma designs.
+
+### 🛠️ Product
+- Lightweight Figma Plugin
+- GPT-based design parsing
+- Auto-aligned, responsive layouts
+- Expandable to token systems and design systems
+
+### 💰 Monetization
+- Freemium plugin with daily generation limits
+- Pro version with unlimited use & team features
+- API access for no-code tools
+
